@@ -1,0 +1,71 @@
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICJ0cjQuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImFhMGU1NDc2LTA2MTMtNDI5YS1iZWRiLTI0OTIzOTAxMDQwZCIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidHI0LmZyZWU5OTk5Lm5ldCIsDQogICJwYXRoIjogIi82MjJmLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
+
+账号2（德国2，WebSocket+TLS）:
+
+Address(地址): good.free9999.net
+
+Port（端口）:443
+
+UUID（用户id）: e5a59c58-d055-428e-b191-95fb5dcb7539
+
+alterId（额外ID）: 16
+
+security（加密方式）: auto
+
+network（传输协议）: ws
+
+headerType（伪装类型）: none
+
+伪装域名（host）：不填
+
+路径： /ray
+
+底层传输安全：tls
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5ICBnb29kLmZyZWU5OTk5Lm5ldCIsDQogICJhZGQiOiAiZ29vZC5mcmVlOTk5OS5uZXQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZTVhNTljNTgtZDA1NS00MjhlLWIxOTEtOTVmYjVkY2I3NTM5IiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3JheSIsDQogICJ0bHMiOiAidGxzIg0KfQ==
+
+账号3（俄罗斯，WebSocket）:
+
+Address(地址): 45.147.200.250
+
+Port（端口）:19994
+
+UUID（用户id）: 884d3977-2949-4795-9db3-fd9118ba24f1
+
+alterId（额外ID）: 16
+
+security（加密方式）: auto
+
+network（传输协议）: ws
+
+headerType（伪装类型）: none
+
+伪装域名（host）：不填
+
+路径： 不填
+
+底层传输安全：不填
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IDQ1LjE0Ny4yMDAuMjUwIiwNCiAgImFkZCI6ICI0NS4xNDcuMjAwLjI1MCIsDQogICJwb3J0IjogIjE5OTk0IiwNCiAgImlkIjogIjg4NGQzOTc3LTI5NDktNDc5NS05ZGIzLWZkOTExOGJhMjRmMSIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+
+账号4（洛杉矶，WebSocket+TLS+Nginx）:
+
+Address(地址): tr2.free3333.xyz
+
+Port（端口）:443
+
+UUID（用户id）: 3e852c43-36b5-4215-b57c-6b991aa4a605
+
+alterId（额外ID）: 2
+
+security（加密方式）: auto
+
+network（传输协议）: ws
+
+headerType（伪装类型）: none
+
+伪装域名（host）：tr2.free3333.xyz
+
+路径：/e2a4c8/
+
+底层传输安全：不填
